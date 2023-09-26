@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79dfe9c7642145f5bb61a532070022f1, type: 3}
+  m_Name: DefaultStaticData
+  m_EditorClassIdentifier: 
+  <GridSize>k__BackingField: {x: 13, y: 10}
+  <CellSize>k__BackingField: 1
+  <OddCellPrefab>k__BackingField: {fileID: 9055557993200940549, guid: 1c91180029220924891a14d03ba933f6, type: 3}
+  <EvenCellPrefab>k__BackingField: {fileID: 1100484511285803344, guid: f0d41e2bf291aa34abcfb30dec8300fd, type: 3}
+  <FollowObjectPrefab>k__BackingField: {fileID: 6686202986571237297, guid: af9efecefcace404492cf0d74ab0e828, type: 3}
+  <FollowingHeight>k__BackingField: 1
